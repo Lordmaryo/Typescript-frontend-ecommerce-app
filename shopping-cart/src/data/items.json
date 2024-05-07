@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex GMT-Master II",
+    "category": "watch",
+    "price": 23399.99,
+    "imgUrl": "/catimgs/watch-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Rolex Deep Sea",
+    "category": "watch",
+    "price": 19345.98,
+    "imgUrl": "/catimgs/watch-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Fossil Neutra Chronograph",
+    "category": "watch",
+    "price": 10023.93,
+    "imgUrl": "/catimgs/watch-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Quartz Rhinestone Round Pointer",
+    "category": "watch",
+    "price": 14000.99,
+    "imgUrl": "/catimgs/watch-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Waterproof Steel Ring Necklace",
+    "category": "necklace",
+    "price": 1029.29,
+    "imgUrl": "/catimgs/necklace-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "U7 Chain Necklace Vintage",
+    "category": "necklace",
+    "price": 11199.99,
+    "imgUrl": "/catimgs/necklace-2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "925 sterling Silver Necklace",
+    "category": "necklace",
+    "price": 2760.00,
+    "imgUrl": "/catimgs/necklace-3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rectangle Metal Pendant Necklace",
+    "category": "necklace",
+    "price": 14759.89,
+    "imgUrl": "/catimgs/necklace-4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gold Onyx Ring",
+    "category": "ring",
+    "price": 90877.93,
+    "imgUrl": "/catimgs/ring-1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tifany & Co 1885 Blue",
+    "category": "ring",
+    "price": 9992.23,
+    "imgUrl": "/catimgs/ring-2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Zirconia Delicate Ring",
+    "category": "ring",
+    "price": 1790.90,
+    "imgUrl": "/catimgs/ring-3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bensimon White Diamond",
+    "category": "ring",
+    "price": 14970.83,
+    "imgUrl": "/catimgs/ring-4.jpg"
+  }
+]
