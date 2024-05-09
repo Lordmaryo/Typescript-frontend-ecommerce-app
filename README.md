@@ -4,7 +4,7 @@ The code and original content of this project, including designs and written mat
 
 ### External Content
 
-Some images used in this project were sourced from external websites such as Pinterest and Patridgejewellers.com.
+Some images used in this project were sourced from external websites such as Pinterest and Partridgejewellers.com.
 
 
 Please note that the external content included in this project may have different licensing terms, and you are responsible for ensuring compliance with those terms if you reuse or redistribute this content.
